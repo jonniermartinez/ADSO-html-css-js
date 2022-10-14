@@ -1,0 +1,38 @@
+* { 
+    margin: auto; padding: 0; 
+    text-align: center;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#cabecera { 
+    font: bold 1em verdana; 
+    background-color: #bc98f3;  
+}
+h1 { 
+    text-align: center ; 
+    padding: 0.5em ;
+}
+img{
+    border-radius: 1em;
+}
+#menu { 
+    float: left; 
+    width: 25%; 
+    height: 89vh;
+    background-color: #bae0f5; 
+}
+#menu img {
+     width: 35%; cursor: pointer; 
+    }
+#principal { 
+    background: #d8f79a;
+    float: left; 
+    width: 75%; 
+    height: 89vh;
+}
+#visor { 
+    width: 60%;
+    margin: 1em auto;
+}
+#visor img { width: 100% }
