@@ -1,0 +1,19 @@
+body {
+	font-family: sans-serif, Helvetica, Arial;
+}
+
+h1 {
+	font-family: "Times New Roman", Arial;
+	/* font-style: normal | italic;*/
+	font-size:20px;
+	font-style: italic; /*estilo de fuente: cursiva;;*/
+	font-weight: bold; /*resalto: negrita;*/
+	color:#4281ed; /*color: # 4281ed;*/
+	text-align: center; /*alineación de texto: centro;*/
+	text-decoration: underline; /*decoración de texto: subrayado;*/
+	letter-spacing: 10px; /*espaciado entre letras: 10px;*/
+}
+
+p {
+	line-height: 30px; /*altura de línea: 30px;*/
+}
